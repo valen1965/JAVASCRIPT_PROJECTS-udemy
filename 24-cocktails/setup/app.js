@@ -9,3 +9,5 @@ window.addEventListener("load", () => {
 });
 
 console.log("Git version 2");
+
+console.log("Git version 3");
