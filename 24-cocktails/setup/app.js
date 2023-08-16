@@ -7,3 +7,6 @@ import getLocalStorage from "./src/displaySingleDrink.js";
 window.addEventListener("load", () => {
   presentDrinks(url);
 });
+
+console.log("New Git Commit");
+console.log("New Git Commit Version 5");
