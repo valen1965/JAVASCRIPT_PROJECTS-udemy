@@ -7,3 +7,5 @@ import getLocalStorage from "./src/displaySingleDrink.js";
 window.addEventListener("load", () => {
   presentDrinks(url);
 });
+
+console.log("Git version 2");
